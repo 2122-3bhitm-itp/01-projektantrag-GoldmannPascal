@@ -1,2 +1,2 @@
 # 01-projektantrag-GoldmannPascal
-Meine Idee10
+Meine Idee
