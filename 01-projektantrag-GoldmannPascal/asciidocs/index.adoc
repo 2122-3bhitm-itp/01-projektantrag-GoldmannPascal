@@ -16,7 +16,7 @@ ifdef::backend-html5[]
 
 == Meine Idee
 
-Web - Entwicklung
+Web -- Entwicklung
 
 Ein Projekt zu erstellen, dessen Aufgabe es ist, Passwörter diverser Apps, für eine Person zu speichern.
 
