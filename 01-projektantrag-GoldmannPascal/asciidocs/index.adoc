@@ -27,3 +27,4 @@ Passwörter werden Verschlüsselt gespeichert.
 == Ziel
 
 Einen Passwortmanager zu erstellen, der all dies umsetzen kann und dazu auch noch ein schönes Design hat.
+
