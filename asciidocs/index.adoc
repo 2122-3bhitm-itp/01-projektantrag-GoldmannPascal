@@ -1,4 +1,4 @@
-= My Project - Passwortmanager
+= Lecture Notes - GoldmannPascal
 Pascal Goldmann
 1.0.0, 2021-10-21: 3BHITM
 ifndef::imagesdir[:imagesdir: images]
@@ -13,18 +13,4 @@ ifdef::backend-html5[]
 
 // print the toc here (not at the default position)
 //toc::[]
-
-== Meine Idee
-
-Web -- Entwicklung
-
-Ein Projekt zu erstellen, dessen Aufgabe es ist, Passwörter diverser Apps, für eine Person zu speichern.
-
-== Umsetzung
-
-Passwörter werden Verschlüsselt gespeichert.
-
-== Ziel
-
-Einen Passwortmanager zu erstellen, der all dies umsetzen kann und dazu auch noch ein schönes Design hat.
 
