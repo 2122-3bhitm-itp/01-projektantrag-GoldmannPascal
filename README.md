@@ -1,3 +1,2 @@
-# 01-projektantrag-GoldmannPascal
-Meine Projektidee
+# 04-lecture-notes-git-GoldmannPascal
 
